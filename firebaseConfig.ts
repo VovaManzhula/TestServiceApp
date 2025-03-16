@@ -3,12 +3,12 @@ import '@react-native-firebase/firestore';
 import '@react-native-firebase/storage';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyBw4Lzbym7In9ocMoaePESXdNcDFQaM0Gc',
-  authDomain: 'test-project-service-app.firebaseapp.com',
-  projectId: 'test-project-service-app',
-  storageBucket: 'test-project-service-app.firebasestorage.app',
-  messagingSenderId: '574911594886',
-  appId: '1:574911594886:android:8bfb3469e061f499e02c07',
+  apiKey: '**********',
+  authDomain: '**********',
+  projectId: '**********',
+  storageBucket: '**********',
+  messagingSenderId: '**********',
+  appId: '**********',
 };
 
 let app: ReturnType<typeof getApp>;
